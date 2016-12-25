@@ -1,0 +1,34 @@
+body {
+	background: #2c2c2c
+	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.top-menu {
+	display: block;
+	
+}
+.hero {
+	background-image: url("library.jpeg")
+	background-color: #0d0d0d;
+	font: white;
+}
+.rulset {
+	
+}
+.glossary {
+	
+}
+.resources {
+	
+}
+.players {
+	
+}
+h1 {
+	
+}
+h2 {
+	
+}
